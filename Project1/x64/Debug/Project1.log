@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\1\Desktop\OS_PRACTICE_2-main\Project1\Project1\main.cpp(45,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SHA256.cpp
+C:\Users\1\Desktop\OS_PRACTICE_2-main\Project1\Project1\SHA256.cpp(124,61): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\1\Desktop\OS_PRACTICE_2-main\Project1\Project1\SHA256.cpp(130,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  Project1.vcxproj -> C:\Users\1\Desktop\OS_PRACTICE_2-main\Project1\x64\Debug\Project1.exe
